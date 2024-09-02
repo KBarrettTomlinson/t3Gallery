@@ -1,7 +1,11 @@
 {
-    "cSpell.words": [
-        "posthog",
-        "Ratelimiting",
-        "upstash"
-    ]
+  "cSpell.words": [
+    "nextjs",
+    "posthog",
+    "Ratelimiting",
+    "tailwindcss",
+    "upstash"
+  ],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
