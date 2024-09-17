@@ -6,6 +6,8 @@
     "Ratelimiting",
     "runtimes",
     "tailwindcss",
+    "topnav",
+    "trpc",
     "upstash"
   ],
   "editor.formatOnSave": true,
